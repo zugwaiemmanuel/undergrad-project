@@ -1,6 +1,8 @@
-# bond_ex
+# TradeBond
 
 A new Flutter project.
+
+This project was carried out as a final year project and can be used to register and trade bonds in Nigeria.
 
 ## Getting Started
 
